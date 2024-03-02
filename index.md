@@ -1,7 +1,7 @@
 ---
 title: "Maddie and Trevin Jones' Wedding"
 image: 
-  path: /images/img.jpg
+  path: /img/img.jpg
 #   thumbnail: /images/so-simple-sample-image-3-400x200.jpg
 #   caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 # categories:
