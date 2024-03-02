@@ -6,4 +6,4 @@ relative_links:
 include:
   - index.md
 
-remote_theme: beautiful-jekyll
+remote_theme: mmistakes/so-simple-theme
