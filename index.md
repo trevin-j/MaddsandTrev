@@ -1,5 +1,5 @@
 ---
-title: "Maddie and Trevin Jones' Wedding"
+title: "The Wedding of Maddie and Trevin Jones"
 # image: 
 #   path: /img/img.jpg
 #   thumbnail: /images/so-simple-sample-image-3-400x200.jpg
